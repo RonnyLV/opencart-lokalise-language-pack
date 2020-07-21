@@ -14,4 +14,3 @@ $_["text_lastname"] = "Uzvārds:";
 $_["text_company"] = "Uzņēmums:";
 $_["text_email"] = "E-pasts:";
 $_["text_telephone"] = "Tālrunis:";
-$_["text_subject"] = "";
