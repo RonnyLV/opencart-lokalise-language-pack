@@ -1,0 +1,34 @@
+<?php
+
+$_["entry_duration"] = "";
+$_["entry_cycle"] = "";
+$_["entry_frequency"] = "";
+$_["entry_trial_price"] = "";
+$_["entry_trial_duration"] = "";
+$_["entry_trial_status"] = "";
+$_["entry_trial_cycle"] = "";
+$_["entry_trial_frequency"] = "";
+$_["heading_title"] = "";
+$_["text_success"] = "";
+$_["text_list"] = "";
+$_["text_add"] = "";
+$_["text_edit"] = "";
+$_["text_day"] = "";
+$_["text_week"] = "";
+$_["text_semi_month"] = "";
+$_["text_month"] = "";
+$_["text_year"] = "";
+$_["text_recurring"] = "";
+$_["text_profile"] = "";
+$_["text_trial"] = "";
+$_["entry_name"] = "";
+$_["entry_price"] = "";
+$_["entry_status"] = "";
+$_["entry_sort_order"] = "";
+$_["column_name"] = "";
+$_["column_sort_order"] = "";
+$_["column_action"] = "";
+$_["error_warning"] = "";
+$_["error_permission"] = "";
+$_["error_name"] = "";
+$_["error_product"] = "";

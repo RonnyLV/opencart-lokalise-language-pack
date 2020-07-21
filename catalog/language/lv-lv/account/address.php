@@ -1,0 +1,31 @@
+<?php
+
+$_["text_address_book"] = "Adrešu grāmatas ieraksti";
+$_["text_address_add"] = "Pievienot adresi";
+$_["text_address_edit"] = "Rediģēt adresi";
+$_["text_add"] = "Jūsu adrese ir veiksmīgi pievienota";
+$_["text_delete"] = "Jūsu adrese ir veiksmīgi izdzēsta";
+$_["entry_default"] = "Noklusējuma adrese";
+$_["error_delete"] = "Brīdinājums: Jums jābūt vismaz vienai adresei!";
+$_["error_default"] = "Brīdinājums: noklusējuma adresi nevar izdzēst!";
+$_["heading_title"] = "";
+$_["text_account"] = "";
+$_["text_edit"] = "";
+$_["text_empty"] = "";
+$_["entry_firstname"] = "";
+$_["entry_lastname"] = "";
+$_["entry_company"] = "";
+$_["entry_address_1"] = "";
+$_["entry_address_2"] = "";
+$_["entry_postcode"] = "";
+$_["entry_city"] = "";
+$_["entry_country"] = "";
+$_["entry_zone"] = "";
+$_["error_firstname"] = "";
+$_["error_lastname"] = "";
+$_["error_address_1"] = "";
+$_["error_postcode"] = "";
+$_["error_city"] = "";
+$_["error_country"] = "";
+$_["error_zone"] = "";
+$_["error_custom_field"] = "";

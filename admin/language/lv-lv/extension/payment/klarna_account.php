@@ -1,0 +1,31 @@
+<?php
+
+$_["text_klarna_account"] = "";
+$_["error_pclass"] = "";
+$_["error_log"] = "";
+$_["heading_title"] = "";
+$_["text_extension"] = "";
+$_["text_success"] = "";
+$_["text_edit"] = "";
+$_["text_live"] = "";
+$_["text_beta"] = "";
+$_["text_sweden"] = "";
+$_["text_norway"] = "";
+$_["text_finland"] = "";
+$_["text_denmark"] = "";
+$_["text_germany"] = "";
+$_["text_netherlands"] = "";
+$_["entry_merchant"] = "";
+$_["entry_secret"] = "";
+$_["entry_server"] = "";
+$_["entry_total"] = "";
+$_["entry_pending_status"] = "";
+$_["entry_accepted_status"] = "";
+$_["entry_geo_zone"] = "";
+$_["entry_status"] = "";
+$_["entry_sort_order"] = "";
+$_["help_merchant"] = "";
+$_["help_secret"] = "";
+$_["help_total"] = "";
+$_["error_permission"] = "";
+$_["error_curl"] = "";

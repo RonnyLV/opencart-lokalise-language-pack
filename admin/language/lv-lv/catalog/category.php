@@ -1,0 +1,37 @@
+<?php
+
+$_["entry_parent"] = "";
+$_["entry_top"] = "";
+$_["entry_column"] = "";
+$_["help_top"] = "";
+$_["help_column"] = "";
+$_["error_parent"] = "";
+$_["heading_title"] = "";
+$_["text_success"] = "";
+$_["text_list"] = "";
+$_["text_add"] = "";
+$_["text_edit"] = "";
+$_["text_default"] = "";
+$_["text_keyword"] = "";
+$_["column_name"] = "";
+$_["column_sort_order"] = "";
+$_["column_action"] = "";
+$_["entry_name"] = "";
+$_["entry_description"] = "";
+$_["entry_meta_title"] = "";
+$_["entry_meta_keyword"] = "";
+$_["entry_meta_description"] = "";
+$_["entry_store"] = "";
+$_["entry_keyword"] = "";
+$_["entry_filter"] = "";
+$_["entry_image"] = "";
+$_["entry_sort_order"] = "";
+$_["entry_status"] = "";
+$_["entry_layout"] = "";
+$_["help_filter"] = "";
+$_["error_warning"] = "";
+$_["error_permission"] = "";
+$_["error_name"] = "";
+$_["error_meta_title"] = "";
+$_["error_keyword"] = "";
+$_["error_unique"] = "";

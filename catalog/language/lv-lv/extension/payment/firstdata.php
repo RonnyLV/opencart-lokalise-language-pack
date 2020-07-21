@@ -1,0 +1,36 @@
+<?php
+
+$_["text_store_card"] = "";
+$_["text_address_response"] = "";
+$_["text_card_type_mauk"] = "";
+$_["text_response_code_full"] = "";
+$_["text_response_card"] = "";
+$_["text_response_card_type"] = "";
+$_["text_title"] = "";
+$_["button_confirm"] = "";
+$_["text_new_card"] = "";
+$_["text_address_ppx"] = "";
+$_["text_address_yyy"] = "";
+$_["text_address_yna"] = "";
+$_["text_address_nyz"] = "";
+$_["text_address_nnn"] = "";
+$_["text_address_ypx"] = "";
+$_["text_address_pyx"] = "";
+$_["text_address_xxu"] = "";
+$_["text_card_code_verify"] = "";
+$_["text_card_code_m"] = "";
+$_["text_card_code_n"] = "";
+$_["text_card_code_p"] = "";
+$_["text_card_code_s"] = "";
+$_["text_card_code_u"] = "";
+$_["text_card_code_x"] = "";
+$_["text_card_code_blank"] = "";
+$_["text_card_type_m"] = "";
+$_["text_card_type_v"] = "";
+$_["text_card_type_c"] = "";
+$_["text_card_type_a"] = "";
+$_["text_card_type_ma"] = "";
+$_["text_response_code"] = "";
+$_["text_response_proc_code"] = "";
+$_["text_response_ref"] = "";
+$_["error_failed"] = "";

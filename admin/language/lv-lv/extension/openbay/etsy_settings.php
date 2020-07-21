@@ -1,0 +1,32 @@
+<?php
+
+$_["text_token_register"] = "";
+$_["text_pull_orders"] = "";
+$_["text_sync_settings"] = "";
+$_["text_orders_imported"] = "";
+$_["help_sync_settings"] = "";
+$_["help_pull_orders"] = "";
+$_["heading_title"] = "";
+$_["text_openbay"] = "";
+$_["text_etsy"] = "";
+$_["text_success"] = "";
+$_["text_status"] = "";
+$_["text_account_ok"] = "";
+$_["text_api_ok"] = "";
+$_["text_complete"] = "";
+$_["text_failed"] = "";
+$_["text_api_status"] = "";
+$_["text_edit"] = "";
+$_["text_register_banner"] = "";
+$_["entry_import_def_id"] = "";
+$_["entry_import_paid_id"] = "";
+$_["entry_import_shipped_id"] = "";
+$_["entry_encryption_key"] = "";
+$_["entry_encryption_iv"] = "";
+$_["entry_token"] = "";
+$_["entry_address_format"] = "";
+$_["entry_debug"] = "";
+$_["error_api_connect"] = "";
+$_["error_account_info"] = "";
+$_["tab_api_info"] = "";
+$_["help_address_format"] = "";

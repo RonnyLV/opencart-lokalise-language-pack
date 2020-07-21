@@ -1,0 +1,33 @@
+<?php
+
+$_["text_terms"] = "";
+$_["text_payment_option"] = "";
+$_["text_single_payment"] = "";
+$_["text_monthly_payment"] = "";
+$_["text_title"] = "";
+$_["text_information"] = "";
+$_["text_additional"] = "";
+$_["text_male"] = "";
+$_["text_female"] = "";
+$_["text_year"] = "";
+$_["text_month"] = "";
+$_["text_day"] = "";
+$_["text_comment"] = "";
+$_["\n"] = "";
+$_["entry_gender"] = "";
+$_["entry_pno"] = "";
+$_["entry_dob"] = "";
+$_["entry_phone_no"] = "";
+$_["entry_street"] = "";
+$_["entry_house_no"] = "";
+$_["entry_house_ext"] = "";
+$_["entry_company"] = "";
+$_["help_pno"] = "";
+$_["help_phone_no"] = "";
+$_["help_street"] = "";
+$_["help_house_no"] = "";
+$_["help_house_ext"] = "";
+$_["help_company"] = "";
+$_["error_deu_terms"] = "";
+$_["error_address_match"] = "";
+$_["error_network"] = "";

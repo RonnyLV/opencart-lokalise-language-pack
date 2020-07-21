@@ -1,0 +1,29 @@
+<?php
+
+$_["text_my_affiliate"] = "Mans filiāles konts";
+$_["text_payment"] = "Informācija par maksājumu";
+$_["heading_title"] = "";
+$_["text_account"] = "";
+$_["text_affiliate"] = "";
+$_["text_cheque"] = "";
+$_["text_paypal"] = "";
+$_["text_bank"] = "";
+$_["text_success"] = "";
+$_["text_agree"] = "";
+$_["entry_company"] = "";
+$_["entry_website"] = "";
+$_["entry_tax"] = "";
+$_["entry_payment"] = "";
+$_["entry_cheque"] = "";
+$_["entry_paypal"] = "";
+$_["entry_bank_name"] = "";
+$_["entry_bank_branch_number"] = "";
+$_["entry_bank_swift_code"] = "";
+$_["entry_bank_account_name"] = "";
+$_["entry_bank_account_number"] = "";
+$_["error_agree"] = "";
+$_["error_cheque"] = "";
+$_["error_paypal"] = "";
+$_["error_bank_account_name"] = "";
+$_["error_bank_account_number"] = "";
+$_["error_custom_field"] = "";

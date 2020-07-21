@@ -1,0 +1,37 @@
+<?php
+
+$_["entry_rate_eu"] = "";
+$_["entry_rate_non_eu"] = "";
+$_["entry_rate_zone_1"] = "";
+$_["entry_rate_zone_2"] = "";
+$_["help_international"] = "";
+$_["tab_special_delivery_500"] = "";
+$_["tab_special_delivery_1000"] = "";
+$_["tab_special_delivery_2500"] = "";
+$_["tab_1st_class_signed"] = "";
+$_["tab_2nd_class_signed"] = "";
+$_["tab_1st_class_standard"] = "";
+$_["tab_2nd_class_standard"] = "";
+$_["tab_international_standard"] = "";
+$_["tab_international_tracked_signed"] = "";
+$_["tab_international_tracked"] = "";
+$_["tab_international_signed"] = "";
+$_["tab_international_economy"] = "";
+$_["heading_title"] = "";
+$_["text_extension"] = "";
+$_["text_success"] = "";
+$_["text_edit"] = "";
+$_["entry_rate"] = "";
+$_["entry_insurance"] = "";
+$_["entry_display_weight"] = "";
+$_["entry_display_insurance"] = "";
+$_["entry_weight_class"] = "";
+$_["entry_tax_class"] = "";
+$_["entry_geo_zone"] = "";
+$_["entry_status"] = "";
+$_["entry_sort_order"] = "";
+$_["help_rate"] = "";
+$_["help_insurance"] = "";
+$_["help_display_weight"] = "";
+$_["help_display_insurance"] = "";
+$_["error_permission"] = "";

@@ -1,0 +1,29 @@
+<?php
+
+$_["text_current_plan"] = "";
+$_["text_register_invite"] = "";
+$_["text_available_plans"] = "";
+$_["text_listings_remaining"] = "";
+$_["text_listings_reserved"] = "";
+$_["text_account_status"] = "";
+$_["text_merchantid"] = "";
+$_["text_change_merchantid"] = "";
+$_["text_allowed"] = "";
+$_["text_not_allowed"] = "";
+$_["text_order_frequency"] = "";
+$_["text_bulk_listing"] = "";
+$_["text_product_listings"] = "";
+$_["column_order_frequency"] = "";
+$_["column_bulk_listing"] = "";
+$_["column_product_listings"] = "";
+$_["button_change_plan"] = "";
+$_["button_register"] = "";
+$_["heading_title"] = "";
+$_["text_openbay"] = "";
+$_["text_amazon"] = "";
+$_["text_price"] = "";
+$_["text_name"] = "";
+$_["text_description"] = "";
+$_["column_name"] = "";
+$_["column_description"] = "";
+$_["column_price"] = "";

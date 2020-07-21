@@ -1,0 +1,31 @@
+<?php
+
+$_["text_pp_payflow"] = "";
+$_["heading_title"] = "";
+$_["text_extension"] = "";
+$_["text_success"] = "";
+$_["text_edit"] = "";
+$_["text_authorization"] = "";
+$_["text_sale"] = "";
+$_["entry_vendor"] = "";
+$_["entry_user"] = "";
+$_["entry_password"] = "";
+$_["entry_partner"] = "";
+$_["entry_test"] = "";
+$_["entry_transaction"] = "";
+$_["entry_total"] = "";
+$_["entry_order_status"] = "";
+$_["entry_geo_zone"] = "";
+$_["entry_status"] = "";
+$_["entry_sort_order"] = "";
+$_["help_vendor"] = "";
+$_["help_user"] = "";
+$_["help_password"] = "";
+$_["help_partner"] = "";
+$_["help_test"] = "";
+$_["help_total"] = "";
+$_["error_permission"] = "";
+$_["error_vendor"] = "";
+$_["error_user"] = "";
+$_["error_password"] = "";
+$_["error_partner"] = "";

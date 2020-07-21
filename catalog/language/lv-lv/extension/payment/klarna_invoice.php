@@ -1,0 +1,30 @@
+<?php
+
+$_["text_terms_fee"] = "";
+$_["text_terms_no_fee"] = "";
+$_["text_additional"] = "";
+$_["text_male"] = "";
+$_["text_female"] = "";
+$_["\n"] = "";
+$_["entry_pno"] = "";
+$_["entry_dob"] = "";
+$_["entry_phone_no"] = "";
+$_["entry_street"] = "";
+$_["entry_house_no"] = "";
+$_["entry_house_ext"] = "";
+$_["help_pno"] = "";
+$_["help_phone_no"] = "";
+$_["help_street"] = "";
+$_["help_house_no"] = "";
+$_["help_house_ext"] = "";
+$_["help_company"] = "";
+$_["error_deu_terms"] = "";
+$_["error_address_match"] = "";
+$_["error_network"] = "";
+$_["text_title"] = "";
+$_["text_year"] = "";
+$_["text_month"] = "";
+$_["text_day"] = "";
+$_["text_comment"] = "";
+$_["entry_gender"] = "";
+$_["entry_company"] = "";

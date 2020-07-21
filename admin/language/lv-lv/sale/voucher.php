@@ -1,0 +1,37 @@
+<?php
+
+$_["text_sent"] = "";
+$_["column_from"] = "";
+$_["column_to"] = "";
+$_["column_theme"] = "";
+$_["help_code"] = "";
+$_["error_order"] = "";
+$_["heading_title"] = "";
+$_["text_success"] = "";
+$_["text_list"] = "";
+$_["text_add"] = "";
+$_["text_edit"] = "";
+$_["column_name"] = "";
+$_["column_code"] = "";
+$_["column_amount"] = "";
+$_["column_status"] = "";
+$_["column_order_id"] = "";
+$_["column_customer"] = "";
+$_["column_date_added"] = "";
+$_["column_action"] = "";
+$_["entry_code"] = "";
+$_["entry_from_name"] = "";
+$_["entry_from_email"] = "";
+$_["entry_to_name"] = "";
+$_["entry_to_email"] = "";
+$_["entry_theme"] = "";
+$_["entry_message"] = "";
+$_["entry_amount"] = "";
+$_["entry_status"] = "";
+$_["error_permission"] = "";
+$_["error_exists"] = "";
+$_["error_code"] = "";
+$_["error_to_name"] = "";
+$_["error_from_name"] = "";
+$_["error_email"] = "";
+$_["error_amount"] = "";

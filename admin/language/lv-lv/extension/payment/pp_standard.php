@@ -1,0 +1,34 @@
+<?php
+
+$_["text_pp_standard"] = "";
+$_["heading_title"] = "";
+$_["text_extension"] = "";
+$_["text_success"] = "";
+$_["text_edit"] = "";
+$_["text_authorization"] = "";
+$_["text_sale"] = "";
+$_["entry_email"] = "";
+$_["entry_test"] = "";
+$_["entry_transaction"] = "";
+$_["entry_debug"] = "";
+$_["entry_total"] = "";
+$_["entry_canceled_reversal_status"] = "";
+$_["entry_completed_status"] = "";
+$_["entry_denied_status"] = "";
+$_["entry_expired_status"] = "";
+$_["entry_failed_status"] = "";
+$_["entry_pending_status"] = "";
+$_["entry_processed_status"] = "";
+$_["entry_refunded_status"] = "";
+$_["entry_reversed_status"] = "";
+$_["entry_voided_status"] = "";
+$_["entry_geo_zone"] = "";
+$_["entry_status"] = "";
+$_["entry_sort_order"] = "";
+$_["tab_general"] = "";
+$_["tab_order_status"] = "";
+$_["help_test"] = "";
+$_["help_debug"] = "";
+$_["help_total"] = "";
+$_["error_permission"] = "";
+$_["error_email"] = "";

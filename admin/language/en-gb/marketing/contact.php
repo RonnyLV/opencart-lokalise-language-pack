@@ -1,0 +1,28 @@
+<?php
+
+$_["text_customer_all"] = "All Customers";
+$_["text_affiliate_all"] = "All Affiliates";
+$_["entry_to"] = "To";
+$_["entry_subject"] = "Subject";
+$_["help_customer"] = "(Autocomplete)";
+$_["error_subject"] = "E-Mail Subject required!";
+$_["error_message"] = "E-Mail Message required!";
+$_["heading_title"] = "Mail";
+$_["text_success"] = "Your message has been successfully sent!";
+$_["text_sent"] = "Your message has been successfully sent to %s of %s recipients!";
+$_["text_list"] = "Mail List";
+$_["text_default"] = "Default";
+$_["text_newsletter"] = "All Newsletter Subscribers";
+$_["text_customer_group"] = "Customer Group";
+$_["text_customer"] = "Customers";
+$_["text_affiliate"] = "Affiliates";
+$_["text_product"] = "Products";
+$_["entry_store"] = "From";
+$_["entry_customer_group"] = "Customer Group";
+$_["entry_customer"] = "Customer";
+$_["entry_affiliate"] = "Affiliate";
+$_["entry_product"] = "Products";
+$_["entry_message"] = "Message";
+$_["help_affiliate"] = "(Autocomplete)";
+$_["help_product"] = "Send only to customers who have ordered products in the list. (Autocomplete)";
+$_["error_permission"] = "Warning: You do not have permission to send E-Mails!";

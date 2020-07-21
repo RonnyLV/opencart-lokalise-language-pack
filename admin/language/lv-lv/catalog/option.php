@@ -1,0 +1,33 @@
+<?php
+
+$_["error_option_value"] = "";
+$_["heading_title"] = "";
+$_["text_success"] = "";
+$_["text_list"] = "";
+$_["text_add"] = "";
+$_["text_edit"] = "";
+$_["text_choose"] = "";
+$_["text_select"] = "";
+$_["text_radio"] = "";
+$_["text_checkbox"] = "";
+$_["text_input"] = "";
+$_["text_text"] = "";
+$_["text_textarea"] = "";
+$_["text_file"] = "";
+$_["text_date"] = "";
+$_["text_datetime"] = "";
+$_["text_time"] = "";
+$_["text_option"] = "";
+$_["text_value"] = "";
+$_["column_name"] = "";
+$_["column_sort_order"] = "";
+$_["column_action"] = "";
+$_["entry_name"] = "";
+$_["entry_type"] = "";
+$_["entry_option_value"] = "";
+$_["entry_image"] = "";
+$_["entry_sort_order"] = "";
+$_["error_permission"] = "";
+$_["error_name"] = "";
+$_["error_type"] = "";
+$_["error_product"] = "";

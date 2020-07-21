@@ -1,0 +1,9 @@
+<?php
+
+$_["heading_title"] = "Feeds";
+$_["text_success"] = "Success: You have modified feeds!";
+$_["text_list"] = "Feed List";
+$_["column_name"] = "Product Feed Name";
+$_["column_status"] = "Status";
+$_["column_action"] = "Action";
+$_["error_permission"] = "Warning: You do not have permission to modify feeds!";
