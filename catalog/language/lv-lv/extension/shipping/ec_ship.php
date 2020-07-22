@@ -1,17 +1,17 @@
 <?php
 
-$_["text_unavailable"] = "";
-$_["text_title"] = "";
-$_["text_weight"] = "";
-$_["text_air_registered_mail"] = "";
-$_["text_air_parcel"] = "";
-$_["text_e_express_service_to_us"] = "";
-$_["text_e_express_service_to_canada"] = "";
-$_["text_e_express_service_to_united_kingdom"] = "";
-$_["text_e_express_service_to_russia"] = "";
-$_["text_e_express_service_one"] = "";
-$_["text_e_express_service_two"] = "";
-$_["text_speed_post"] = "";
-$_["text_smart_post"] = "";
-$_["text_local_courier_post"] = "";
-$_["text_local_parcel"] = "";
+$_["text_unavailable"] = "Piegādes pakalpojums nav pieejams";
+$_["text_title"] = "EK kuģis";
+$_["text_weight"] = "Svars:";
+$_["text_air_registered_mail"] = "Gaisa kuģis";
+$_["text_air_parcel"] = "Gaisa paku";
+$_["text_e_express_service_to_us"] = "e-Express pakalpojums ASV";
+$_["text_e_express_service_to_canada"] = "e-Express pakalpojums uz Kanādu";
+$_["text_e_express_service_to_united_kingdom"] = "e-Express pakalpojums uz Lielbritāniju";
+$_["text_e_express_service_to_russia"] = "e-Express pakalpojums Krievijai";
+$_["text_e_express_service_one"] = "e-Express pakalpojums";
+$_["text_e_express_service_two"] = "e-Express pakalpojums";
+$_["text_speed_post"] = "SpeedPost (standarta pakalpojums)";
+$_["text_smart_post"] = "Smart Post";
+$_["text_local_courier_post"] = "Vietējā kurjera pasta nodaļa (kases kolekcija)";
+$_["text_local_parcel"] = "Vietējais sūtījums";

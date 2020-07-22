@@ -1,3 +1,3 @@
 <?php
 
-$_["text_total"] = "";
+$_["text_total"] = "Kopā";

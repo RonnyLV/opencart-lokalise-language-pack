@@ -1,3 +1,3 @@
 <?php
 
-$_["text_sub_total"] = "";
+$_["text_sub_total"] = "Starpsumma";

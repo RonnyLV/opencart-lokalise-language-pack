@@ -1,11 +1,11 @@
 <?php
 
-$_["heading_title_success"] = "";
-$_["text_choose_shipping_method"] = "";
-$_["heading_title"] = "";
-$_["text_title"] = "";
-$_["text_basket"] = "";
-$_["text_checkout"] = "";
-$_["text_success"] = "";
-$_["text_sales_tax"] = "";
-$_["text_newsletter"] = "";
+$_["heading_title_success"] = "Jūsu Klarna Checkout pasūtījums ir veikts.";
+$_["text_choose_shipping_method"] = "Izvēlieties nosūtīšanas veidu";
+$_["heading_title"] = "Klarna kase";
+$_["text_title"] = "Klarna kase";
+$_["text_basket"] = "Iepirkšanās ratiņi";
+$_["text_checkout"] = "Izrakstīšanās";
+$_["text_success"] = "Panākumi";
+$_["text_sales_tax"] = "Tirdzniecības nodoklis";
+$_["text_newsletter"] = "Abonējiet mūsu biļetenu";

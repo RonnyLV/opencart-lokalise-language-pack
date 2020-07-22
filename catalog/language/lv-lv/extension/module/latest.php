@@ -1,4 +1,4 @@
 <?php
 
-$_["heading_title"] = "";
-$_["text_tax"] = "";
+$_["heading_title"] = "Jaunākais";
+$_["text_tax"] = "Bez nodokļiem:";
