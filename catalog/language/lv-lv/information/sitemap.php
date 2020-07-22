@@ -12,4 +12,4 @@ $_["text_checkout"] = "Izrakstīšanās";
 $_["text_search"] = "Meklēt";
 $_["text_information"] = "Informācija";
 $_["text_contact"] = "Sazinies ar mums";
-$_["text_download"] = "";
+$_["text_download"] = "Lejupielādes";

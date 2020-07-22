@@ -1,5 +1,5 @@
 <?php
 
-$_["heading_title"] = "";
-$_["text_default"] = "";
-$_["text_store"] = "";
+$_["heading_title"] = "Izvēlieties veikalu";
+$_["text_default"] = "Noklusējums";
+$_["text_store"] = "Lūdzu, izvēlieties veikalu, kuru vēlaties apmeklēt.";

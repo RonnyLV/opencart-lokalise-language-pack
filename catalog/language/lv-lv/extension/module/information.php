@@ -1,5 +1,5 @@
 <?php
 
-$_["heading_title"] = "";
-$_["text_contact"] = "";
-$_["text_sitemap"] = "";
+$_["heading_title"] = "Informācija";
+$_["text_contact"] = "Sazinies ar mums";
+$_["text_sitemap"] = "Vietnes karte";

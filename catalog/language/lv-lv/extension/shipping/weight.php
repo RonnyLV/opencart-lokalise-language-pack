@@ -1,4 +1,4 @@
 <?php
 
-$_["text_title"] = "";
-$_["text_weight"] = "";
+$_["text_title"] = "Piegāde pēc svara";
+$_["text_weight"] = "Svars:";

@@ -1,3 +1,3 @@
 <?php
 
-$_["text_handling"] = "";
+$_["text_handling"] = "Pārkraušanas maksa";

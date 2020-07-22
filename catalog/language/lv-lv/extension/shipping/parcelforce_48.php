@@ -1,7 +1,7 @@
 <?php
 
-$_["text_insurance"] = "";
-$_["text_title"] = "";
-$_["text_description"] = "";
-$_["text_weight"] = "";
-$_["text_time"] = "";
+$_["text_insurance"] = "Apdrošināts līdz:";
+$_["text_title"] = "Pakomāts 48";
+$_["text_description"] = "Pakomāts 48";
+$_["text_weight"] = "Svars:";
+$_["text_time"] = "Paredzamais laiks: 48 stundu laikā";
