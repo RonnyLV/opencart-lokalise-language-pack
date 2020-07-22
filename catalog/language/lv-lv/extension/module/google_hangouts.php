@@ -1,3 +1,3 @@
 <?php
 
-$_["heading_title"] = "";
+$_["heading_title"] = "Tiešraides Čats";

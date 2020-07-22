@@ -1,3 +1,3 @@
 <?php
 
-$_["text_search"] = "";
+$_["text_search"] = "Meklēt";

@@ -1,3 +1,3 @@
 <?php
 
-$_["text_low_order_fee"] = "";
+$_["text_low_order_fee"] = "Maza pasūtījuma maksa";

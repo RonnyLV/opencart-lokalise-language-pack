@@ -1,7 +1,7 @@
 <?php
 
-$_["text_title"] = "";
-$_["text_canceled"] = "";
-$_["button_cancel"] = "";
-$_["error_not_cancelled"] = "";
-$_["error_not_found"] = "";
+$_["text_title"] = "PayPal Express kase";
+$_["text_canceled"] = "Veiksme: jūs esat veiksmīgi atcēlis šo maksājumu!";
+$_["button_cancel"] = "Atcelt atkārtotu maksājumu";
+$_["error_not_cancelled"] = "Kļūda: %s";
+$_["error_not_found"] = "Nevarēja atcelt atkārtotu profilu";

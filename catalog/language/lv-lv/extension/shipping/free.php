@@ -1,4 +1,4 @@
 <?php
 
-$_["text_title"] = "";
-$_["text_description"] = "";
+$_["text_title"] = "Bezmaksas sūtīšana";
+$_["text_description"] = "Bezmaksas sūtīšana";
