@@ -1,6 +1,6 @@
 <?php
 
-$_["text_basket"] = "Iepirkšanās ratiņi";
+$_["text_basket"] = "GROZS";
 $_["text_failure"] = "Neizdevās samaksāt";
 $_["heading_title"] = "Neizdevās samaksāt!";
 $_["text_checkout"] = "Izrakstīšanās";
