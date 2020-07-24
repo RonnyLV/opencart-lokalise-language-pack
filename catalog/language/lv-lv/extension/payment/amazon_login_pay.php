@@ -1,6 +1,6 @@
 <?php
 
-$_["breadcrumb_cart"] = "Iepirkšanās ratiņi";
+$_["breadcrumb_cart"] = "GROZS";
 $_["breadcrumb_payment"] = "Maksājums";
 $_["breadcrumb_shipping"] = "Piegāde";
 $_["breadcrumb_summary"] = "Kopsavilkums";
