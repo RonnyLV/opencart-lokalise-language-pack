@@ -66,7 +66,7 @@ $_["error_payment"] = "Brīdinājums: nepieciešama maksājuma metode!";
 $_["error_no_payment"] = "Brīdinājums: maksājuma iespējas nav pieejamas. Lūdzu, <a href=\"%s\"> sazinieties ar mums </a> lai saņemtu palīdzību!";
 $_["error_custom_field"] = "Nepieciešams %s !";
 $_["heading_title"] = "Izrakstīšanās";
-$_["text_cart"] = "Iepirkšanās ratiņi";
+$_["text_cart"] = "GROZS";
 $_["text_new_customer"] = "Jauns klients";
 $_["text_checkout"] = "Izrakstīšanās iespējas:";
 $_["text_register"] = "Reģistrēt kontu";
