@@ -9,7 +9,7 @@ $_["error_minimum"] = "Minimālā pasūtījuma summa %s ir %s !";
 $_["error_required"] = "Nepieciešams %s !";
 $_["error_product"] = "Brīdinājums: Jūsu grozā nav preču!";
 $_["error_recurring_required"] = "Lūdzu, atlasiet atkārtotu maksājumu.";
-$_["heading_title"] = "Iepirkšanās ratiņi";
+$_["heading_title"] = "GROZS";
 $_["text_success"] = "Panākumi: jūs esat pievienojis <a href=\"%s\"> %s </a> savam <a href=\"%s\"> iepirkumu grozam </a> !";
 $_["text_remove"] = "Veiksme: jūs mainījāt savu iepirkumu grozu!";
 $_["text_login"] = "Uzmanību: lai apskatītu cenas, jums ir <a href=\"%s\"> jāpiesakās </a> vai <a href=\"%s\"> jāizveido konts </a> !";

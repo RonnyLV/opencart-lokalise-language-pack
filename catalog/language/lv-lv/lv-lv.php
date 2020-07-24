@@ -2,17 +2,17 @@
 
 $_["code"] = "lv";
 $_["direction"] = "ltr";
-$_["date_format_short"] = "d / m / g";
+$_["date_format_short"] = "d.m.Y";
 $_["date_format_long"] = "l dS FY";
-$_["time_format"] = "h: i: s A";
-$_["datetime_format"] = "d / m / YH: i: s";
+$_["time_format"] = "h:i:s A";
+$_["datetime_format"] = "d.m.Y H: i: s";
 $_["decimal_point"] = ".";
 $_["thousand_point"] = ",";
 $_["text_home"] = "<i class=\"fa fa-home\"></i>";
 $_["text_yes"] = "Jā";
 $_["text_no"] = "Nē";
-$_["text_none"] = "--- Nav ---";
-$_["text_select"] = "--- Lūdzu izvēlieties ---";
+$_["text_none"] = " --- Nav --- ";
+$_["text_select"] = " --- Lūdzu izvēlieties --- ";
 $_["text_all_zones"] = "Visas zonas";
 $_["text_pagination"] = "Rāda no %d līdz %d no %d ( %d lapas)";
 $_["text_loading"] = "Notiek ielāde ...";
